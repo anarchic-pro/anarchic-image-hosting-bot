@@ -1,0 +1,16 @@
+{
+  // Telegram Bot Token
+  "telegram_bot_token": "ASK @BOTFATHER FOR YOUR HTTP TOKEN",
+
+  // Telegram Chat ID where images will be sent
+  "chat_id": -1002436094985,
+
+  // https://api.telegram.org/bot<telegram_bot_token without angle brackets>/getUpdates
+
+  // Maximum number of concurrent uploads allowed
+  "max_concurrent_uploads": 5,
+
+  // Host and port for the server
+  "host": "127.0.0.1",
+  "port": "8080"
+}
